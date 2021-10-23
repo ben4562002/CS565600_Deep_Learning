@@ -11,4 +11,5 @@ Lab02 : Exploring and Visualizing Data & PCA \
 Lab03 : Decision Trees & Random Forest \
 Lab04-1 : Mini-batch Stochastic Gradient Descent implementation. \
 Lab04-2 : Linear, Polynomial, and Decision Tree Regression \
-Lab05 : Regularization
+Lab05 : Regularization \
+Lab06 : Logistic Regression and Evaluation Metrics
